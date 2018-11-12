@@ -1,0 +1,7 @@
+/Debug/
+/SA_Report/
+.package-stamp
+.smartthingsapp
+/.sign/
+/res/certificate.pem
+/res/privatekey.der
